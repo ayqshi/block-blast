@@ -1,3 +1,6 @@
+# NOTE!!!
+I AM FUTZUMI, I lost the previous account due to 2FA problems. I will attempt to pick back up this projects development. Unfortunetly, I have also lost my source to the game, which will be a huge set back for development.
+
 # Block Blast!
 
 Block Blast is a Tetris-like puzzle game, challenging to eliminate as many blocks as possible in a limited space to get a higher score. It's also a simple yet challenging elimination game with logic skills and layout strategies, and every move determines whether you can get a high score.
