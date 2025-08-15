@@ -1,5 +1,9 @@
 # NOTE!!!
-I AM FUTZUMI, I lost the previous account due to 2FA problems. I will attempt to pick back up this projects development. Unfortunetly, I have also lost my source to the game, which will be a huge set back for development.
+I AM FUTZUMI, I lost the previous account due to 2FA problems. I'm attempting this projects development.<br>
+Unfortunetly, I have also lost my source to the game, which will be a huge set back for development. <br>
+Right now, the goal is to reverse engineer the original released file into an open source project. <br>
+I would honestly love to see some contribution, support, feedback, ideas, or even correction to flaws in my code. (Leave it in the issue section or contact me via snap: futzumi, ayqshi) <br>
+Before contacting or reaching out, BE SURE to not ask for a personal client/feature, the project will be Open Sourced for personal development (provide credits to both futzumi/ayashi in your readMe if you plan to re-distribute.
 
 # Block Blast!
 
