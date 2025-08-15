@@ -72,7 +72,7 @@ The [original repository](https://github.com/futzumi/block-blast) includes my Sn
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/ayqshi/block-blast/blob/main/LICENSE)) file for details.
 
 ## Acknowledgments
 
