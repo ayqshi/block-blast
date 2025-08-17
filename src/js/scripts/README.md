@@ -1,7 +1,7 @@
 # NOTE
 These scripts are implemented via "bundled_scripts.js" with window.__require. These are here to help a viewer edit a script relavent to their goal. <br><br>
 ## how to apply a patch?
-1. Find the bundled_scripts.js file, and find the instance of the file(s) needing changed. (Ex. "api.js: []")
+1. Find the bundled_scripts.js file, and find the instance of the file(s) needing changed. (Ex. "api: []")
 3. Replace the code wrapped INSIDE OF THE FUNCTION <br> <br>
  api: [function(t, o, e) { <br>
    //replace this code with the updated <br>
