@@ -8,5 +8,5 @@ These scripts are implemented via the end of "src-js-settings.js" with window.__
    //replace this code with the updated <br>
 }
 ## Easier way to do ts?
-I have experimented node.js (update resMap.js AND settings.js with compiled/bundled versions of updated scriptd)<br>
-I have succeeded to make scripts that correctly do so. However, I would like to finish fully breakinng down this project to release an official (bugless) script.
+I have experimented node.js (update resMap.js AND settings.js with compiled/bundled versions of updated scripts/asssets)<br>
+I did succeeded. However, I would like to finish fully breakinng down this project to release an official (bugless) script.
