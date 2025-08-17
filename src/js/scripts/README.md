@@ -3,7 +3,7 @@ These scripts are implemented via "bundled_scripts.js" with window.__require. Th
 ## how to apply a patch?
 1. Find the bundled_scripts.js file, and find the instance of the file(s) needing changed. (Ex. "api.js: []")
 3. Replace the code wrapped INSIDE OF THE FUNCTION <br>
- api: [function(t, o, e) { //do not break/remove the function <br>
+ api: [function(t, o, e) { <br>
    //replace this code with the updated <br>
 }
 ## Easier way to do ts?
