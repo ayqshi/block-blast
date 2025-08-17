@@ -1,5 +1,9 @@
-These scripts are implemented via the end of "src-js-settings.js" with window.__require. These are here to help a viewer read, understand, and edit a script relavent to their goal. <br>
-To apply An update made, for Ex. an update to api.js would be implemented ny replacing the code that is wrapped inside the function labeled with the depending filename: <br>
- api: [function(t, o, e) { <br>
+# NOTE
+These scripts are implemented via the end of "src-js-settings.js" with window.__require. These are here to help a viewer edit a script relavent to their goal. <br><br>
+## how to apply a patch?
+1. Find the settings.js file, and find the last instance of "window.__require".
+2.  Inside of this declaration, find the label of the script you have updated. (Ex. api.js)
+3. Replace the code wrapped INSIDE OF THE FUNCTION <br>
+ api: [function(t, o, e) { //do not break/remove the function <br>
    //replace this code with the updated <br>
 }
